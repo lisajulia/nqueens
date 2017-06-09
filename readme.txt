@@ -1,0 +1,1 @@
+Solution to the nqueens problem using backmarking (implicit) as described in http://kti.mff.cuni.cz/~bartak/downloads/CPschool05notes.pdf inspired by: https://github.com/Overbryd/constraint_programming_talk
